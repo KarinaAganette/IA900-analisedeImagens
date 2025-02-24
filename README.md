@@ -38,7 +38,31 @@ Resultado do teste:
 
 ---
 
-## 🕵️‍♂️ PROJETO001: Análise de documentos 
+## 🕵️‍♂️ PROJETO002: Análise de documentos - Extrair texto de imagens no Vision Studio
 
+### ⚙️ Requisitos
+Conta ativa no Azure.
+Acesso ao Vision Studio: Vision Studio.
+
+
+### 🔍 Teste Realizado: Extrair texto de imagens no Vision Studio
+No Vision Studio, selecione a guia Rosto.
+Clique no bloco Extrair texto de imagens no Vision Studio
+Selecione uma imagem para verificar a detecção de texto: 
+![image](https://github.com/user-attachments/assets/dd8c7d08-7d26-4b53-99c8-c706b87a92f9)
 
 ---
+
+## 🕵️‍♂️ PROJETO003:  Adicionar legendas às imagens
+
+### ⚙️ Requisitos
+Conta ativa no Azure.
+Acesso ao Vision Studio: Vision Studio.
+
+
+### 🔍 Teste Realizado: Adicionar legendas às imagens
+No Vision Studio, selecione a guia Rosto.
+Clique no bloco Adicionar legendas às imagens
+Selecione uma imagem para verificar a legenda gerada:
+![image](https://github.com/user-attachments/assets/c0c55b60-efb6-474d-9748-fc9233a75cb7)
+
